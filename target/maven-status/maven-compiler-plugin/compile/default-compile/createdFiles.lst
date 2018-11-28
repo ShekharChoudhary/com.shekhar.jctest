@@ -1,0 +1,8 @@
+test\ConcurrencyTest.class
+org\openjdk\jcstress\infra\results\IntResult2_jcstress_c2.class
+test\ConcurrencyTest$SimpleClass.class
+org\openjdk\jcstress\infra\results\IntResult2_jcstress_c1.class
+META-INF\TestList
+org\openjdk\jcstress\infra\results\IntResult2_jcstress.class
+test\ConcurrencyTest_jcstress$Pair.class
+test\ConcurrencyTest_jcstress.class
